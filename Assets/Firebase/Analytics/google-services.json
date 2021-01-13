@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "174939071862",
+    "firebase_url": "https://match-3-c8232.firebaseio.com",
+    "project_id": "match-3-c8232",
+    "storage_bucket": "match-3-c8232.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:174939071862:android:4eda56ddefcc84a5200657",
+        "android_client_info": {
+          "package_name": "com.DefaultCompany.ArcadeCrush"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "174939071862-dtdhvi2fl1d5g8v8c918hkdjjo3mcmam.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlH5S8c3z5qtNFsgfzAEJJLx5tzoc_3do"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "174939071862-dtdhvi2fl1d5g8v8c918hkdjjo3mcmam.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

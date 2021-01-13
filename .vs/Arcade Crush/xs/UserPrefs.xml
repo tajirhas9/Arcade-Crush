@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{61C11BB8-F202-FA1F-58AD-2624BF813EC9}|">
+  <MonoDevelop.Ide.ItemProperties.GoogleMobileAds PreferredExecutionTarget="4e0c20d5-16b1-4b14-b76d-ce858f3dfb5a" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/UIManager.cs">
+    <Files>
+      <File FileName="Assets/Scripts/UIManager.cs" Line="38" Column="20" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Arcade Crush" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <DisabledProjects>
+    <String>GoogleMobileAds.Player.csproj</String>
+    <String>Assembly-CSharp.csproj</String>
+    <String>Assembly-CSharp.Player.csproj</String>
+    <String>UnityEngine.UI.csproj</String>
+    <String>UnityEngine.TestRunner.csproj</String>
+    <String>Unity.VSCode.Editor.csproj</String>
+    <String>Unity.Timeline.Editor.csproj</String>
+    <String>Unity.TextMeshPro.Editor.csproj</String>
+    <String>Unity.Rider.Editor.csproj</String>
+    <String>Unity.Mobile.AndroidLogcat.Editor.csproj</String>
+    <String>Unity.CollabProxy.Editor.csproj</String>
+  </DisabledProjects>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
